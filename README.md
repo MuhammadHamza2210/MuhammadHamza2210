@@ -87,24 +87,15 @@
 
 ---
 
-### `> ~/stats --live`
+### `> ~/activity`
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadHamza2210&show_icons=true&hide_border=true&count_private=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0D1117" alt="github stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHamza2210&layout=compact&hide_border=true&langs_count=8&title_color=00FF41&text_color=c9d1d9&bg_color=0D1117" alt="top langs" />
-
-<br/>
 
 <img height="170" src="https://github-readme-streak-stats.demolab.com?user=MuhammadHamza2210&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=c9d1d9&currStreakLabel=00FF41&sideNums=c9d1d9&sideLabels=00FF41&dates=8b949e" alt="streak" />
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHamza2210&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" alt="activity graph" width="95%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=MuhammadHamza2210&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=4" alt="trophies" />
 
 </div>
 

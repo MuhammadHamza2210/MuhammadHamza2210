@@ -41,7 +41,7 @@
 
 ┌──(hamza㉿github)-[~]
 └─$ sudo ./start --mode=ship-fast
-  [✓] coffee loaded
+  [✓] Tea loaded
   [✓] curiosity = 100%
   [✓] ready to build_
 ```

@@ -84,36 +84,3 @@
 | 🌦️ **[WeatherScope](https://github.com/MuhammadHamza2210/WeatherScope)** | Clean, live weather app with location-based forecasts | `Python` |
 
 > `also built →` **[Synapse](https://github.com/MuhammadHamza2210/Synapse)** · **[Lootlo](https://github.com/MuhammadHamza2210/Lootlo)** · **[Portfolio](https://github.com/MuhammadHamza2210/Portfolio)**
-
----
-
-### `> ~/activity`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-streak-stats.demolab.com?user=MuhammadHamza2210&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=c9d1d9&currStreakLabel=00FF41&sideNums=c9d1d9&sideLabels=00FF41&dates=8b949e" alt="streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHamza2210&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" alt="activity graph" width="95%" />
-
-</div>
-
----
-
-### `> ~/connect`
-
-<div align="center">
-
-<a href="mailto:ihamza.muhammad2003@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="email" />
-</a>
-<a href="https://github.com/MuhammadHamza2210">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="github" />
-</a>
-
-<br/><br/>
-
-<code>$ echo "thanks for stopping by — now go build something_"</code>
-
-</div>

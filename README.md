@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://github.com/MuhammadHamza2210">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=820&height=90&lines=%24+ssh+hamza%40github.dev;Hi%2C+I'm+Muhammad+Hamza+%F0%9F%91%8B;AI+%26+Full-Stack+Developer;Machine+Learning+%7C+RAG+%7C+Web+Apps;root%40hamza%3A~%24+building+cool+stuff_" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=820&height=90&lines=%24+ssh+hamza%40github.dev;Hi%2C+I'm+Muhammad+Hamza+%F0%9F%91%8B;Python+%26+AI+Developer;Building+AI+projects+%2B+exploring+React+%2F+TSX;root%40hamza%3A~%24+building+cool+stuff_" alt="typing banner" />
 </a>
 
 <br/>
@@ -25,15 +25,16 @@
 ```bash
 ┌──(hamza㉿github)-[~]
 └─$ whoami
-  Muhammad Hamza — AI & Full-Stack Developer
+  Muhammad Hamza — Python & AI Developer
 
 ┌──(hamza㉿github)-[~]
 └─$ cat profile.json
 {
-  "role"      : "AI / Full-Stack Developer",
-  "focus"     : ["Machine Learning", "RAG pipelines", "Web Apps"],
-  "stack"     : ["Python", "TypeScript", "Next.js", "Java"],
-  "currently" : "leveling up Java + shipping AI projects",
+  "role"      : "Python & AI Developer",
+  "focus"     : ["Machine Learning", "AI projects", "RAG pipelines"],
+  "core"      : "Python",
+  "exploring" : ["React", "TypeScript / TSX", "Next.js", "modern web stacks"],
+  "currently" : "going deep on Python + building AI projects",
   "mindset"   : "break it, understand it, rebuild it better",
   "open_to"   : "collaboration & cool ideas"
 }
@@ -51,16 +52,21 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,java,tailwind,docker,git,github,vercel,html,css&theme=dark&perline=7" alt="tech stack" />
-
-<br/><br/>
-
+<code>// core</code><br/>
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF41)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00FF41)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=00FF41)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00FF41)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=00FF41)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-0D1117?style=for-the-badge&logo=googlegemini&logoColor=00FF41)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00FF41)
+
+<code>// exploring — web</code><br/>
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FF41)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00FF41)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=00FF41)
+![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00FF41)
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,pandas,react,ts,js,nextjs,nodejs,tailwind,docker,git,github,vscode&theme=dark&perline=6" alt="tech stack" />
 
 </div>
 
@@ -70,12 +76,12 @@
 
 | `>_` Project | Description | Stack |
 |---|---|---|
-| 🛰️ **[Orion](https://github.com/MuhammadHamza2210/Orion)** | Real-time stock-market analysis powered by **Gemini AI**, Dockerized backend | `TypeScript` `Docker` `Gemini` |
-| 💸 **[Fluxx](https://github.com/MuhammadHamza2210/Fluxx)** | Personal financial dashboard — track, visualize & plan your money | `TypeScript` `Next.js` |
+| 🛰️ **[Orion](https://github.com/MuhammadHamza2210/Orion)** | Real-time stock-market analysis powered by **Gemini AI**, Dockerized backend | `TypeScript` `Gemini` `Docker` |
 | 💎 **[Health-Hub](https://github.com/MuhammadHamza2210/Health-Hub)** | Premium health & wellness app — USDA nutrition + AI health coach | `Python` `Streamlit` |
-| 🔍 **[CodeScan-AI](https://github.com/MuhammadHamza2210/CodeScan-AI)** | Plagiarism / similarity checker between source files | `Python` |
-| 🌦️ **[WeatherScope](https://github.com/MuhammadHamza2210/WeatherScope)** | Clean, live weather app with location-based forecasts | `Python` |
+| 🔍 **[CodeScan-AI](https://github.com/MuhammadHamza2210/CodeScan-AI)** | AI-driven plagiarism / similarity checker between source files | `Python` |
 | 🧠 **[WildMind-AI](https://github.com/MuhammadHamza2210/WildMind-AI)** | AI-powered web experience | `JavaScript` |
+| 💸 **[Fluxx](https://github.com/MuhammadHamza2210/Fluxx)** | Personal financial dashboard — track, visualize & plan your money | `TypeScript` `Next.js` |
+| 🌦️ **[WeatherScope](https://github.com/MuhammadHamza2210/WeatherScope)** | Clean, live weather app with location-based forecasts | `Python` |
 
 > `also built →` **[Synapse](https://github.com/MuhammadHamza2210/Synapse)** · **[Lootlo](https://github.com/MuhammadHamza2210/Lootlo)** · **[Portfolio](https://github.com/MuhammadHamza2210/Portfolio)**
 

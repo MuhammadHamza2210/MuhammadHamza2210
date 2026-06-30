@@ -3,9 +3,20 @@
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <!-- ░░░░░░░░░░░░░░░░░░░░  HACKER BANNER  ░░░░░░░░░░░░░░░░░░░░ -->
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=200&section=header&text=Muhammad%20Hamza&fontColor=00FF41&fontSize=55&fontAlignY=38&desc=%3E_%20Python%20%26%20AI%20Developer&descAlignY=60&descSize=20&animation=fadeIn" alt="header banner" width="100%" />
+```
+
+   ███╗   ███╗     ██╗  ██╗ █████╗ ███╗   ███╗███████╗ █████╗
+   ████╗ ████║     ██║  ██║██╔══██╗████╗ ████║╚══███╔╝██╔══██╗
+   ██╔████╔██║     ███████║███████║██╔████╔██║  ███╔╝ ███████║
+   ██║╚██╔╝██║     ██╔══██║██╔══██║██║╚██╔╝██║ ███╔╝  ██╔══██║
+   ██║ ╚═╝ ██║     ██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██║  ██║
+   ╚═╝     ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝
+   >_ Python & AI Developer  //  break it · understand it · rebuild it better
+
+```
+
+<div align="center">
 
 <a href="https://github.com/MuhammadHamza2210">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=820&height=80&lines=%24+ssh+hamza%40github.dev;Hi%2C+I'm+Muhammad+Hamza+%F0%9F%91%8B;Python+%26+AI+Developer;Building+AI+projects+%2B+exploring+React+%2F+TSX;root%40hamza%3A~%24+building+cool+stuff_" alt="typing banner" />
@@ -109,21 +120,6 @@
 
 ---
 
-## `> ~/stats --github`  —  GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadHamza2210&show_icons=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&bg_color=0D1117" alt="github stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHamza2210&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="github streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHamza2210&layout=compact&hide_border=true&title_color=00FF41&text_color=C9D1D9&bg_color=0D1117&langs_count=8" alt="top languages" />
-
-</div>
-
----
-
 ## `> ~/contact --connect`  —  Get In Touch
 
 <div align="center">
@@ -141,7 +137,5 @@
 ┌──(hamza㉿github)-[~]
 └─$ echo "Thanks for visiting — let's build something great together_"
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0D1117&height=120&section=footer" alt="footer" width="100%" />
 
 </div>
